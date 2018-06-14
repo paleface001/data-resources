@@ -10,3 +10,4 @@ data processing & analysing resources
 * 绘画、艺术家、图片：160000张名画数据库，分为年代和作家两个维度 （ https://gallerix.asia/ ）
 * CBDB 中国历代人物传记资料库（ https://projects.iq.harvard.edu/chinesecbdb/home ）
 * 538 （ https://github.com/fivethirtyeight/data ）
+* UCI Machine Learning repository ( https://archive.ics.uci.edu/ml/datasets.html )
