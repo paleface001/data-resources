@@ -7,6 +7,7 @@ data processing & analysing resources
 
 ## data base
 * 台北故宫博物院open data ( https://theme.npm.edu.tw/opendata/index.aspx )
+* 故宫博物院藏品 （http://www.dpm.org.cn/explore/collections.html ）
 * 绘画、艺术家、图片：160000张名画数据库，分为年代和作家两个维度 （ https://gallerix.asia/ ）
 * CBDB 中国历代人物传记资料库（ https://projects.iq.harvard.edu/chinesecbdb/home ）
 * 538 （ https://github.com/fivethirtyeight/data ）
