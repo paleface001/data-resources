@@ -12,3 +12,7 @@ data processing & analysing resources
 * CBDB 中国历代人物传记资料库（ https://projects.iq.harvard.edu/chinesecbdb/home ）
 * 538 （ https://github.com/fivethirtyeight/data ）
 * UCI Machine Learning repository ( https://archive.ics.uci.edu/ml/datasets.html )
+
+## image processing and computer vision (临时存一下)
+* Removing the Background from an Image using scikit-image （ http://flothesof.github.io/removing-background-scikit-image.html ）
+
