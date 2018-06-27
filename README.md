@@ -15,4 +15,4 @@ data processing & analysing resources
 
 ## image processing and computer vision (临时存一下)
 * Removing the Background from an Image using scikit-image （ http://flothesof.github.io/removing-background-scikit-image.html ）
-
+* shadow removal from a single image ( http://lxu.me/mypapers/XuL_ShadowRemoval.pdf )
