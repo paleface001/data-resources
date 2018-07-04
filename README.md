@@ -13,6 +13,8 @@ data processing & analysing resources
 * 538 （ https://github.com/fivethirtyeight/data ）
 * UCI Machine Learning repository ( https://archive.ics.uci.edu/ml/datasets.html )
 * Data from William Playfair's works （ https://github.com/jrnold/playfair-data ）
+* Computer generated building footprints for the United States (https://github.com/Microsoft/USBuildingFootprints)
+  重点是学习通过遥感图像分析 抽取数据的手段
 
 ## image processing and computer vision (临时存一下)
 * Removing the Background from an Image using scikit-image （ http://flothesof.github.io/removing-background-scikit-image.html ）
