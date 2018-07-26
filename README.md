@@ -22,8 +22,8 @@ data processing & analysing resources
 * shadow removal from a single image ( http://lxu.me/mypapers/XuL_ShadowRemoval.pdf )
 * colors of Monet : use K-Means cluster to get dominent colors of an image ( http://www.carriesmith.ca/recurse/monet/Process/Colors%20of%20Monet%20-%20Color%20Processing.html )
 * Introduction to K-Means clustering ( https://www.datascience.com/blog/k-means-clustering )
-* tensorflow RCNN，一种sematic segmetation的技术(mask识别物体轮廓) 
-  Building a Custom Mask RCNN model with Tensorflow Object Detection ( https://towardsdatascience.com/building-a-custom-mask-rcnn-model-with-tensorflow-object-detection-952f5b0c7ab4 )
-  Is Google Tensorflow Object Detection API the easiest way to implement image recognition? ( https://towardsdatascience.com/is-google-tensorflow-object-detection-api-the-easiest-way-to-implement-image-recognition-a8bd1f500ea0 )
-  * 關於影像辨識，所有你應該知道的深度學習模型 (https://medium.com/@syshen/%E7%89%A9%E9%AB%94%E5%81%B5%E6%B8%AC-object-detection-740096ec4540)
++ tensorflow RCNN，一种sematic segmetation的技术(mask识别物体轮廓) 
+  - Building a Custom Mask RCNN model with Tensorflow Object Detection ( https://towardsdatascience.com/building-a-custom-mask-rcnn-model-with-tensorflow-object-detection-952f5b0c7ab4 )
+  - Is Google Tensorflow Object Detection API the easiest way to implement image recognition? ( https://towardsdatascience.com/is-google-tensorflow-object-detection-api-the-easiest-way-to-implement-image-recognition-a8bd1f500ea0 )
++ 關於影像辨識，所有你應該知道的深度學習模型 (https://medium.com/@syshen/%E7%89%A9%E9%AB%94%E5%81%B5%E6%B8%AC-object-detection-740096ec4540)
  
