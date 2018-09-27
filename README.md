@@ -16,7 +16,7 @@ data processing & analysing resources
 * Data from William Playfair's works （ https://github.com/jrnold/playfair-data ）
 * Computer generated building footprints for the United States (https://github.com/Microsoft/USBuildingFootprints)
   重点是学习通过遥感图像分析 抽取数据的手段
-* weather underground 气象数据，强大程度超乎你的想象 （ https://www.wunderground.com/ ）
+* 二战期间天气数据 （ https://www.kaggle.com/smid80/weatherww2 ）
 
 ## image processing and computer vision (临时存一下)
 * Removing the Background from an Image using scikit-image （ http://flothesof.github.io/removing-background-scikit-image.html ）
