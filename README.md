@@ -29,3 +29,5 @@ data processing & analysing resources
   - Is Google Tensorflow Object Detection API the easiest way to implement image recognition? ( https://towardsdatascience.com/is-google-tensorflow-object-detection-api-the-easiest-way-to-implement-image-recognition-a8bd1f500ea0 )
 + 關於影像辨識，所有你應該知道的深度學習模型 (https://medium.com/@syshen/%E7%89%A9%E9%AB%94%E5%81%B5%E6%B8%AC-object-detection-740096ec4540)
  
+## machine learning
+* hard voting vs soft voting ( https://stats.stackexchange.com/questions/349540/hard-voting-soft-voting-in-ensemble-based-methods )
