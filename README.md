@@ -18,6 +18,7 @@ data processing & analysing resources
   重点是学习通过遥感图像分析 抽取数据的手段
 * 二战期间天气数据 （ https://www.kaggle.com/smid80/weatherww2 ）
 * 台风数据 （ https://www.kaggle.com/noaa/hurricane-database ）
+* Starbucks Locations Worldwide ( https://www.kaggle.com/starbucks/store-locations )
 
 ## image processing and computer vision (临时存一下)
 * Removing the Background from an Image using scikit-image （ http://flothesof.github.io/removing-background-scikit-image.html ）
