@@ -22,6 +22,7 @@ data processing & analysing resources
 * Chinese Poetry ( https://github.com/chinese-poetry/chinese-poetry )
 * World City Relational Data  ( https://www.lboro.ac.uk/gawc/data.html )
 * data world ( https://data.world/ )
+* 经济学人开放数据 （ https://github.com/theeconomist/ ）
 
 ## image processing and computer vision (临时存一下)
 * Removing the Background from an Image using scikit-image （ http://flothesof.github.io/removing-background-scikit-image.html ）
