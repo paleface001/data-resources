@@ -20,6 +20,8 @@ data processing & analysing resources
 * 台风数据 （ https://www.kaggle.com/noaa/hurricane-database ）
 * Starbucks Locations Worldwide ( https://www.kaggle.com/starbucks/store-locations )
 * Chinese Poetry ( https://github.com/chinese-poetry/chinese-poetry )
+* World City Relational Data  ( https://www.lboro.ac.uk/gawc/data.html )
+* data world ( https://data.world/ )
 
 ## image processing and computer vision (临时存一下)
 * Removing the Background from an Image using scikit-image （ http://flothesof.github.io/removing-background-scikit-image.html ）
