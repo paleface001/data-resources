@@ -36,3 +36,6 @@ data processing & analysing resources
  
 ## machine learning
 * hard voting vs soft voting ( https://stats.stackexchange.com/questions/349540/hard-voting-soft-voting-in-ensemble-based-methods )
+
+## our world in data
+https://ourworldindata.org/#entries
