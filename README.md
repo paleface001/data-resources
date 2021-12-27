@@ -26,6 +26,7 @@ data processing & analysing resources
 * data world ( https://data.world/ )
 * 经济学人开放数据 （ https://github.com/theeconomist/ ）
 * world happiness report 历年数据  （ https://www.kaggle.com/mathurinache/world-happiness-report#  ） 
+* Data Is Plural 有趣的数据集搜集网站 （ https://www.data-is-plural.com/ ）
 
 ## image processing and computer vision (临时存一下)
 * Removing the Background from an Image using scikit-image （ http://flothesof.github.io/removing-background-scikit-image.html ）
