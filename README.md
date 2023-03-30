@@ -47,3 +47,4 @@ https://ourworldindata.org/#entries
 ## 3D Model dataset
 * http://yulanguo.me/dataset.html
 * https://shapenet.org/
+* https://ai.googleblog.com/2022/06/scanned-objects-by-google-research.html
