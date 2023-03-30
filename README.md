@@ -43,3 +43,7 @@ data processing & analysing resources
 
 ## our world in data
 https://ourworldindata.org/#entries
+
+## 3D Model dataset
+* http://yulanguo.me/dataset.html
+* https://shapenet.org/
